@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499964837017",
+    "project_id": "quanb-restapi",
+    "storage_bucket": "quanb-restapi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499964837017:android:bfdc67458d79617584cc08",
+        "android_client_info": {
+          "package_name": "com.example.lab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyiYkrSqByFSI_CeKFli5mDvwwfsILGj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
